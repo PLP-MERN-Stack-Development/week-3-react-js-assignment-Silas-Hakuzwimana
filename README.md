@@ -1,4 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19857865&assignment_repo_type=AssignmentRepo)
+
 # React.js and Tailwind CSS Assignment
 
 This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
@@ -6,6 +7,7 @@ This assignment focuses on building a responsive React application using JSX and
 ## Assignment Overview
 
 You will:
+
 1. Set up a React project with Vite and Tailwind CSS
 2. Create reusable UI components
 3. Implement state management using React hooks
@@ -51,6 +53,9 @@ src/
 ├── api/             # API integration functions
 ├── utils/           # Utility functions
 └── App.jsx          # Main application component
+
+
+The deployed URL is: https://task-manager-mu-three-64.vercel.app/
 ```
 
 ## Submission
@@ -68,4 +73,4 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [React Documentation](https://react.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+- [React Router Documentation](https://reactrouter.com/)
